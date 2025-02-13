@@ -1,0 +1,29 @@
+{
+  "name": "rtigenie.github.io",
+  "version": "1.0.0",
+  "description": "RTI Genie: Your Genie for Information Freedom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtigenie/rtigenie.github.io.git"
+  },
+  "keywords": [
+    "RTI",
+    "RTIGenie",
+    "RTIAct2005",
+    "Information",
+    "RTIOnline",
+    "RTIForm",
+    "RTIAppeal"
+  ],
+  "author": "Pravas .",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rtigenie/rtigenie.github.io/issues"
+  },
+  "homepage": "https://rtigenie.github.io"
+}

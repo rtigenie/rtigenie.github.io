@@ -1,0 +1,70 @@
+# -------------------
+# RTI Genie: Your Genie for Information Freedom
+# Author: Pravas.
+# RTI Documentation, Guides, and Tutorials.
+# Right to Information 2005 also known as RTI Act 2005. 5th Pillar - Corruption Killer.
+# -------------------
+
+input: ./
+output: .retype
+
+title: "RTI Genie: Your Genie for Information Freedom"
+url: https://rtigenie.github.io/
+favicon: assets/favicon/favicon.ico
+favicon: assets/favicon/favicon-16x16.png
+favicon: assets/favicon/favicon-32x32.png
+
+branding:
+  logo: /assets/logo.svg
+  logoDark: /assets/logo-dark.svg
+  label: RTI Genie
+
+meta:
+  title: 
+meta:
+  title: "RTI Genie: Your Genie for Information Freedom"
+  description: "RTI Genie is your ultimate online companion to understanding and navigating the world of Right to Information (RTI). This comprehensive website serves as an encyclopedia, a tutorial hub, and a practical aid to anyone looking to learn about the laws, rules, and regulations surrounding RTI. Whether you're a citizen seeking to file an RTI request or an enthusiast eager to understand the intricacies of transparency laws, RTI Genie provides accessible, up-to-date, and easy-to-understand information. Think of it as your personal genie, guiding you through the process, offering step-by-step tutorials, and answering all your questions about the RTI process, rights, and more. It's the one-stop resource designed to empower citizens and promote transparency at every step of the journey."
+  image: https://your-domain.com/og-image.png
+  twitter:
+    card: summary_large_image
+    title: RTIGenie
+    description: "RTI - Genie is Your One Stop Solution for RTI."
+    image: https://your-domain.com/og-image.png
+  openGraph:
+    title: RTIGenie
+    description: "RTI - Genie is Your One Stop Solution for RTI."
+    image: https://your-domain.com/og-image.png
+
+generator:
+  paths: root
+
+links:
+  - text: Contribute
+    link: /pro/pro.md
+    icon: heart
+
+  - text: Issues
+    link: https://github.com/rtigenie/rtigenie.github.io/issues
+    icon: comment-discussion
+    target: blank
+
+data:
+  abbreviations:
+    HTML: Hyper Text Markup Language
+    CSS: Cascading Style Sheet
+
+exclude:
+  - "draft/"
+  - "README.md"
+
+
+footer:
+  copyright: © [RtiGenie](https://rtigenie.github.io/) {{ year }} – All rights reserved.
+  links:
+    - text: About
+      link: about.md
+      icon: question
+
+    - text: License
+      link: LICENSE
+      icon: shield-check

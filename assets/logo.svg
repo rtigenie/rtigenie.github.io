@@ -1,0 +1,23 @@
+<!-- © 2025 RtiGenie. All rights reserved.
+    Unauthorized use of this file is strictly prohibited. 
+    Author: Pravas.
+    Source: https://rtigenie.github.io/
+    Logo: rti-genie-logo 
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="70" viewBox="0 0 119 70">
+  <g transform="translate(-15.5 -12.65)">
+    <g transform="translate(-88.5 2.35)">
+      <g id="rti-genie-logo" transform="translate(61.333 -11.034)">
+        <g transform="translate(42.667 21.333)">
+          <path d="M65.785,43.567A11.122,11.122,0,1,1,76.573,32.45,11.091,11.091,0,0,1,65.785,43.567Zm0-15.881a4.766,4.766,0,1,0,4.624,4.764A4.814,4.814,0,0,0,65.785,27.686ZM79.656,88.034c-13.871,0-23.426-6.67-27.125-19.057H42.667v-12.7a9.223,9.223,0,0,1,9.247-9.529H79.656A9.223,9.223,0,0,1,88.9,56.272v12.7H79.964c.308,3.494,2.466,8.258,10.172,11.434l6.473,2.541-6.473,3.176C87.054,87.716,82.738,88.034,79.656,88.034ZM48.832,62.624h8.631l.616,2.541c2.466,11.117,9.556,16.516,21.577,16.516h.308A19.87,19.87,0,0,1,73.491,65.8V62.624h9.247V56.272A2.957,2.957,0,0,0,79.656,53.1H51.914a2.957,2.957,0,0,0-3.082,3.176Z" transform="translate(-42.667 -21.333)" fill="#5fa0ff"/>
+          <path d="M53.275,126.934v-4.917c-.427-2.316.509-4.683,3.231-4.683l27.643.01c3.19.284,3.088,2.454,3.088,5.161v4.409H77.952v4.822a19,19,0,0,0,4.377,11.978c-10.858-1.493-18.17-6.938-20.4-16.78Z" transform="translate(-47.116 -85.595)" fill="#8eb1e5" opacity="0.4"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(-32.5 -3)">
+      <text id="RTI" transform="translate(118 39)" fill="rgba(38, 39, 41, 0.89)" font-size="40" font-family="ArialRoundedMTBold, Arial Rounded MT" letter-spacing="0.091em"><tspan x="0" y="18">RTI</tspan></text>
+      <text id="Geinie" transform="translate(118 65)" fill="#4387ed" font-size="20" font-family="Arial-BoldItalicMT, Arial" font-weight="700"  letter-spacing="0.12em"><tspan x="0" y="11">Geinie</tspan></text>
+    </g>
+    <line y2="32" transform="translate(75 35)" fill="none" stroke="#3e4f64" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
